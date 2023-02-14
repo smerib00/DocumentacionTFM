@@ -13,8 +13,13 @@ index.js --> este archivo escrito en lenguaje JavaScript, hará de servidor envi
 
 client.js --> archivo en lenguaje Javascript que hará la función de cliente y solicitará información al servidor. Realizará peticiones get con la opción observe para que esté continuamente recibiendo paquetes del servidor
 
+Vulberabilidades CoAP
+
+AtaquesCoAP.zip --> contiene los dos datasets generados, uno con el ataque Cross-Protocol y otro con el ataque de amplificación
+
 Creación de redes virtuales SDN con Mininet.
 
 prueba1.py --> Ejemplo de creación de una red con un host.
 
 prueba2.py --> Topología de red formada por 6 hosts y 3 switches con un bucle.
+
