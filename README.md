@@ -15,5 +15,6 @@ client.js --> archivo en lenguaje Javascript que hará la función de cliente y 
 
 Creación de redes virtuales SDN con Mininet.
 
-prueba1.py --> Ejemplo de creación de una red con un host
+prueba1.py --> Ejemplo de creación de una red con un host.
+
 prueba2.py --> Topología de red formada por 6 hosts y 3 switches con un bucle.
